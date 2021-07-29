@@ -1,7 +1,7 @@
 ### ABOUT ME
 
-<a href="https://www.linkedin.com/in/linlin-li-90b66010a"> 
- <p>Linkedin :</p><img width="35" src="https://pics.freeicons.io/uploads/icons/png/17893955031555589921-64.png"/>
+<a href="https://www.linkedin.com/in/linlin-li-90b66010a" style= 'color: pink' > 
+ <span>Linkedin :</span><img width="35" src="https://pics.freeicons.io/uploads/icons/png/17893955031555589921-64.png"/>
 </a>
 
  🔭 I’m currently studying full stack development course with Boolean (https://boolean.co.uk) and I will graduate in mid September
