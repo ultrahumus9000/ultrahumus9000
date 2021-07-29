@@ -1,6 +1,6 @@
 
  ###   ABOUT ME 
-</br><br>
+<br></br>
  🔭 I’m currently studying full stack development course with Boolean (https://boolean.co.uk) and I will graduate in mid September
  
  🍞 I'm looking for junior software engineer role and open to relocate anywhere within the UK
