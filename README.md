@@ -11,6 +11,7 @@
  🧋 How I think of Coding: Coding is solving puzzles. I enjoy spending time working on solutions for these puzzles.
 
   ⚡ Fun fact: The profile I chose is a charactor called Usoopp from Japanese Anime called One Piece.
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=ultrahumus9000&theme=highcontrast&show_icons=true&count_private=true&hide=contribs,prs)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
