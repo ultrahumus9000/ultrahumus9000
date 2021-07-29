@@ -1,8 +1,6 @@
 
  ###ABOUT ME 
- <a href="https://www.linkedin.com/in/linlin-li-90b66010a" align="center" > 
- <img width="35" src="https://pics.freeicons.io/uploads/icons/png/17893955031555589921-64.png"/>
-</a>
+
 
  🔭 I’m currently studying full stack development course with Boolean (https://boolean.co.uk) and I will graduate in mid September
  
@@ -19,4 +17,6 @@
 <div align="left">
  
 
-
+ <a href="https://www.linkedin.com/in/linlin-li-90b66010a" align="center" > 
+ <img width="35" src="https://pics.freeicons.io/uploads/icons/png/17893955031555589921-64.png"/>
+</a>
