@@ -19,6 +19,6 @@
  <a href="https://www.linkedin.com/in/linlin-li-90b66010a"  > 
  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/17893955031555589921-64.png"/>
 </a>
-  <a href=""  > 
+  <a href="mailto: paris1900lll@gmail.com"  > 
  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/11377518691557997002-64.png"/>
 </a>
