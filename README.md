@@ -26,10 +26,10 @@
  ### Practicing 
  
   <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-64.png"/>  |
- 
   <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-64.png"/>  |
   <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-64.png"/>  |
- 
+  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-64.png"/>  |
+  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-64.png"/>  |
  
  
  
