@@ -1,6 +1,6 @@
 
  ### ABOUT ME 
-
+<br/>
 
  🔭 I’m currently studying full stack development course with Boolean (https://boolean.co.uk) and I will graduate in mid September
  
