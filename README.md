@@ -1,6 +1,7 @@
 ### ABOUT ME
-<span style= "color: pink">Linkedin :</span>
-<a href="https://www.linkedin.com/in/linlin-li-90b66010a"  > 
+
+<a href="https://www.linkedin.com/in/linlin-li-90b66010a" align="center" > 
+ <span style= "color: pink">Linkedin :</span>
  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/17893955031555589921-64.png"/>
 </a>
 
