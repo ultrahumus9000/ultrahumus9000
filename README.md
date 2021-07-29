@@ -12,4 +12,5 @@
 
   ⚡ Fun fact: The profile I chose is a charactor called Usoopp from Japanese Anime called One Piece.
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=ultrahumus9000&theme=highcontrast&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultrahumus9000&hide=contribs,prs)
+
