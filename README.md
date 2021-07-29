@@ -27,10 +27,10 @@
  
   <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-64.png"/>  |
   <img width="35" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-64.png"/>  |
-  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-64.png"/>  |
+  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/13691885491579517854-64.png"/>  |
   <img width="35" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-64.png"/>  |
   <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-64.png"/>  |
-  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/14016183671580802975-64.png"/>  |
+  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/14016183671580802975-64.png"/> |
   <img width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHGp8eKSFYl0tk-Kg0I-0xk0rZHGeKkn6Ww&usqp=CAU"/> 
  
  
