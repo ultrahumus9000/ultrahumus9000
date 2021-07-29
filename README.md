@@ -7,9 +7,8 @@
  
  🍓 What I have learnt: C(University Module), JavaScript, HTML5, CSS, ES6, Python(University Module), TypeScript.
  
- 🧋 How I think of Coding: Coding is solving puzzles. I enjoy spending time working on solutions for these puzzles.
+ ⚡ How I think of Coding: Coding is solving puzzles. I enjoy spending time working on solutions for these puzzles.
 
-  ⚡ Fun fact: The profile I chose is a charactor called Usoopp from Japanese Anime called One Piece.
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
