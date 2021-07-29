@@ -1,6 +1,6 @@
 ### ABOUT ME
 
-<a href="https://www.linkedin.com/in/linlin-li-90b66010a"
+<a href="https://www.linkedin.com/in/linlin-li-90b66010a
      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg%22%3E</img>
 <a/>
 
