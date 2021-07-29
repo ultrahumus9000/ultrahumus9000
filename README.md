@@ -1,10 +1,5 @@
 ### ABOUT ME
 
-<a href="https://www.linkedin.com/in/linlin-li-90b66010a" align="center" > 
- <span style= "color: pink">Linkedin :</span>
- <img width="35" src="https://pics.freeicons.io/uploads/icons/png/17893955031555589921-64.png"/>
-</a>
-
  🔭 I’m currently studying full stack development course with Boolean (https://boolean.co.uk) and I will graduate in mid September
  
  🌱 I’m currently learning Node.js and SQL, ProgresSQL, MySQL.
@@ -17,4 +12,10 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div align="center">
+<span style= "color: pink">Linkedin :</span>
+<a href="https://www.linkedin.com/in/linlin-li-90b66010a" align="center" > 
+ 
+ <img width="35" src="https://pics.freeicons.io/uploads/icons/png/17893955031555589921-64.png"/>
+</a>
+</div>
