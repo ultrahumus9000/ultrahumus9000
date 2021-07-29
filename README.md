@@ -1,5 +1,5 @@
 
- ###  <u> ABOUT ME </u>
+ ###   ABOUT ME 
 
  🔭 I’m currently studying full stack development course with Boolean (https://boolean.co.uk) and I will graduate in mid September
  
@@ -24,6 +24,8 @@
 </a>
 
  ### Practicing 
+ 
+  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-64.png"/>  | <img width="35 src="https://pics.freeicons.io/uploads/icons/png/13691885491579517854-64.png"/> | 
  
  
  
