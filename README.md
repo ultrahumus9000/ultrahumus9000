@@ -21,7 +21,7 @@
  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/11377518691557997002-64.png"/>
 </a>
 
- ### Practicing 
+ ### Practicing  
  
  <img width="35" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-64.png"/>  
   <img width="35" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-64.png"/>
