@@ -6,7 +6,7 @@
  
  🌱 I’m currently learning Node.js and SQL, ProgresSQL, MySQL
  
- 🥬 I am planning to learn flutter and React Native in this August
+ 🥬 I am planning to learn flutter and React Native in this September
  
  🍓 What I have learnt: C(University Module), JavaScript, HTML5, CSS, ES6, Python(University Module), TypeScript. Node.js,Jest,MongoDB,PostgreSQL
  
