@@ -8,7 +8,7 @@
  
  🥬 I am planning to learn flutter and React Native in this September
  
- 🍓 What I have learnt: C(University Module), JavaScript, HTML5, CSS, ES6, Python(University Module), TypeScript. Node.js,Jest,MongoDB,PostgreSQL
+ 🍓 What I have learnt: C(University Module), JavaScript, HTML5, CSS, ES6, Python(University Module), TypeScript. Node.js,Jest,MongoDB,PostgreSQL,Mongoose
  
  ⚡ How I think of Coding: Coding is solving puzzles. I enjoy spending time working on solutions for these puzzles.
 
