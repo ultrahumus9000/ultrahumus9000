@@ -4,9 +4,7 @@
  
  🍞 I'm looking for junior software engineer role and open to relocate anywhere within the UK
  
- 🌱 I’m currently learning Node.js and SQL, ProgresSQL, MySQL
- 
- 🥬 I am planning to learn flutter and React Native in this September
+ 🌱 I’m currently learning MongoDB,Mongoose and Cypress
  
  🍓 What I have learnt: C(University Module), JavaScript, HTML5, CSS, ES6, Python(University Module), TypeScript. Node.js,Jest,MongoDB,PostgreSQL,Mongoose
  
