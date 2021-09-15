@@ -1,8 +1,8 @@
  ###   ABOUT ME 
 
- 🔭 I’m currently studying full stack development course with Boolean (https://boolean.co.uk) and I will graduate in mid September
+ 🔭 I’m currently studying full stack development course with Boolean (https://boolean.co.uk) and I will graduate in the 1st of October
  
- 🍞 I'm looking for junior software engineer role and open to relocate anywhere within the UK
+ 🍞 I'm looking for junior software engineer/web developer role and open to relocate anywhere within the UK
  
  🌱 I’m currently learning MongoDB,Mongoose and Cypress
  
