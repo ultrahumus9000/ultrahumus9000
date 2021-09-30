@@ -10,9 +10,9 @@
  
  ⚡ How I think of Coding: Coding is solving puzzles. I enjoy spending time working on solutions for these puzzles.
  
- 🌸 Featured Projects: Nos Cinema, Tetris Game
+ 🌸 Featured Projects: 
 
-Nos Cinema: this is a online booking/management web application for cinema where general guests can see most popular
+1. Nos Cinema: this is a online booking/management web application for cinema where general guests can see most popular
 films, buy tickets, modify their infomation and admin can review the newsest cinema and manage their database and 
 check all essential infomation from admin dashboard.
  
@@ -22,7 +22,7 @@ check all essential infomation from admin dashboard.
  
  Backend: https://github.com/ultrahumus9000/boolean-uk-solo-project-server
  
- Tetris Game: I built 2 versions via JS and TS for this tetris game. There are 2 lighting mode and and multple
+2. Tetris Game: I built 2 versions via JS and TS for this tetris game. There are 2 lighting mode and and multple
  levels you can choose to play. 
   
  Deploy Website: https://lintris.vercel.app
