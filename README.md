@@ -18,7 +18,7 @@
  Frontend: https://github.com/ultrahumus9000/boolean-uk-solo-project-client
  Backend: https://github.com/ultrahumus9000/boolean-uk-solo-project-server
  
- 2 Tetris Game: I built 2 versions via JS and TS for this tetris game. There are 2 lighting mode and and multple levels you can choose to play. 
+ 2.Tetris Game: I built 2 versions via JS and TS for this tetris game. There are 2 lighting mode and and multple levels you can choose to play. 
   
  Deploy Website: https://lintris.vercel.app
  TS Version: https://github.com/ultrahumus9000/Tetris_TypeScript_Version
