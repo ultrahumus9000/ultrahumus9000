@@ -12,7 +12,7 @@
  
  🌸 Featured Projects:
  
- 1. Nos Cinema: this is a online booking/management web application for cinema where general guests can see most popular films, buy tickets, modify their infomation and admin can review the newsest cinema and manage their database and check all essential infomation from admin dashboard.
+1. Nos Cinema: this is a online booking/management web application for cinema where general guests can see most popular films, buy tickets, modify their infomation and admin can review the newsest cinema and manage their database and check all essential infomation from admin dashboard.
  
  Deploy Website: https://noscinema.netlify.app
  Frontend: https://github.com/ultrahumus9000/boolean-uk-solo-project-client
