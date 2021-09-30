@@ -9,6 +9,25 @@
  🍓 What I have learnt: C(University Module), JavaScript, HTML5, CSS, ES6, Python(University Module), TypeScript. Node.js,Jest,MongoDB,PostgreSQL,Mongoose
  
  ⚡ How I think of Coding: Coding is solving puzzles. I enjoy spending time working on solutions for these puzzles.
+ 
+ 🌸 Featured Projects:
+ 
+ 1. Nos Cinema: this is a online booking/management web application for cinema where general guests can see most popular films, buy tickets, modify their infomation and admin can review the newsest cinema and manage their database and check all essential infomation from admin dashboard.
+ 
+ Deploy Website: https://noscinema.netlify.app
+ Frontend: https://github.com/ultrahumus9000/boolean-uk-solo-project-client
+ Backend: https://github.com/ultrahumus9000/boolean-uk-solo-project-server
+ 
+ 2 Tetris Game: I built 2 versions via JS and TS for this tetris game. There are 2 lighting mode and and multple levels you can choose to play. 
+  
+ Deploy Website: https://lintris.vercel.app
+ TS Version: https://github.com/ultrahumus9000/Tetris_TypeScript_Version
+ JS Version: https://github.com/ultrahumus9000/boolean-uk-react-project-Tetris
+ 
+ 
+ 
+ 
+ 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats?)
 
