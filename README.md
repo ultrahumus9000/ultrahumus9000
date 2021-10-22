@@ -10,7 +10,7 @@
  
  ⚡ How I think of Coding: Coding is solving puzzles. I enjoy spending time working on solutions for these puzzle. 
  
- 🫐 What I like to learn: Know the concepts behind scenes to write efficient code.
+ 🫐 What I like to learn: Know the concepts behind scenes to write efficient code and optimaze projects.
  
  🌸 Featured Projects: 
 
