@@ -15,6 +15,7 @@
  🌸 Featured Projects: 
 
  Nos Cinema Deploy Website: https://noscinema.netlify.app
+ 
  Tetris Game  Deploy Website: https://lintris.vercel.app
 
 
