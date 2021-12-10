@@ -1,9 +1,7 @@
  ###   ABOUT ME 
 
  🔭 I just finshed a full stack development bootcamp couse with Boolean, see my final indivual work at https://noscinema.netlify.app 
- 
- 🍞 I'm looking for junior software engineer/web developer role and open to relocate anywhere within the UK
- 
+  
  🌱 I’m currently learning C#, MongoDB,Mongoose and Cypress
  
  🍓 What I have learnt: C(University Module), JavaScript, HTML5, CSS, ES6, Python(University Module), TypeScript. Node.js,Jest,MongoDB,PostgreSQL,Mongoose
