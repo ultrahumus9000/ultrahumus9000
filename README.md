@@ -1,12 +1,12 @@
  ###   ABOUT ME 
 
- 🔭 I just finshed a full stack development bootcamp couse with Boolean, see my final individual work at https://noscinema.netlify.app 
-  
- 🌱 I’m currently working full time at Accenture as an application analyst. 
+ 🌱 I’m currently working full time at Barclays as a developer analyst and I am working in the public cloud team. 
  
- 🍓 What I have learnt: C(University Module), JavaScript, HTML5, CSS, ES6, Python(University Module), TypeScript. Node.js,Jest,MongoDB,PostgreSQL,Mongoose
+ 🎯 What I am aiming for: Achieving a AWS cloud practioner qualification in September. 
  
- 🫐 What I like to learn: Know the concepts behind scenes to write efficient code and optimaze projects.
+ 🍓 What I have learnt: C (University Module), JavaScript, HTML5, CSS, ES6, Python (University Module), TypeScript, Node.js, Jest, MongoDB, PostgreSQL, Mongoose. 
+ 
+ 🫐 What I like to learn: Knowing the concepts behind scenes to write efficient code and optimize projects.
  
   ⚡ How I think of Coding: Coding is solving puzzles. I enjoy spending time working on solutions for these puzzles.
  
