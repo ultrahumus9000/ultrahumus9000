@@ -37,7 +37,7 @@
   <img width="35" src="https://camo.githubusercontent.com/71180e045362792d24b2bb6c8c358b2113c9e199e650667e7b560596f99894e5/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f31343637383631303733313535313935333730382d3531322e706e67"/>
    <img width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHGp8eKSFYl0tk-Kg0I-0xk0rZHGeKkn6Ww&usqp=CAU"/>
  <img width="35" src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png"/>
- <img width="70" src="https://miro.medium.com/max/1079/1*nvtdCw77Al6LgV8wt_ma6Q.png"/>
+ <img width="90" src="https://miro.medium.com/max/1079/1*nvtdCw77Al6LgV8wt_ma6Q.png"/>
 
  
  
