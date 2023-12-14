@@ -2,7 +2,7 @@
 
  🌱 I’m currently working full time at Barclays as a developer analyst and I am working in the public cloud team. 
  
- 🍓 What I have learnt: C (University Module), JavaScript, HTML5, CSS, ES6, Python (University Module), TypeScript, Node.js, Jest, MongoDB, PostgreSQL, Mongoose, React, Redux, Flask.
+ 🍓 What I have learnt: C (University Module), JavaScript, HTML5, CSS, ES6, Python (University Module), TypeScript, Node.js, Jest, MongoDB, PostgreSQL, Mongoose, React, Redux, Flask, Angular
  
  🫐 What I like to learn: Knowing the concepts behind scenes to write efficient code and optimize projects.
  
